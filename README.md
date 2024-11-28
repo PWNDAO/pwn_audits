@@ -11,7 +11,7 @@ The reports in this repository detail:
 ## Contact
 If you have any questions, suggestions, or security concerns, please contact us at:
 - Email: security@pwn.xyz
-- Website: pwn.xyz
+- Website: [pwn.xyz](https://pwn.xyz)
 
 ## Disclaimer
 The information provided in this repository is for informational purposes only. While PWN strives to ensure accuracy and thoroughness in its security assessments, no system can be guaranteed 100% secure. Users are encouraged to conduct their own independent assessments before using the protocol.
